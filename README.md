@@ -1,0 +1,2 @@
+# R5T.Tamsog.Types
+A types library for the Tamsog project.
